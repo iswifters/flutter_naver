@@ -87,7 +87,7 @@ class _FlutterNaverState extends State<FlutterNaver> {
             icon: Icon(Icons.home_filled,
               color: Colors.white,
             ),
-            label: "HoMe",
+            label: "Home",
           ),
 
           BottomNavigationBarItem(
